@@ -2,6 +2,7 @@
 3rd year project by Danford Mponda and Kenneth Hastings
 
 PROGRESS REPORT
+
 Week1
 -During this week the code developed was for a home screen of the main program to be displayed on the LCD screen
 
