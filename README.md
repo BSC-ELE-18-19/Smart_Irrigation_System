@@ -10,5 +10,4 @@ WEEK2
 -Durring this week the code sets up an Arduino to control a liquid crystal display (LCD) and four buttons(ENTER, RETURN, UP, DOWN). It has two functions: homeScreen() and navigationMenu().
 
 WEEK3
--
-
+-KJHGGCF
