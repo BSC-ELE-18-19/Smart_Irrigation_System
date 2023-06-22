@@ -3,7 +3,7 @@
 
 PROGRESS REPORT
 
-WEEK1
+WEEK1 
 -During this week the code developed was for a home screen of the main program to be displayed on the LCD screen
 
 WEEK2
